@@ -39,7 +39,7 @@ Flag | (WIP) Compatible with | Description
 ## Functions
 
 Function
---- | --- | ---
+--- |
 ft_putchar
 ft_putstr 
 ft_printnbr
